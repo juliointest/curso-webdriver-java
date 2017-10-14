@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javaee:javaee-api:5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javaee/javaee-api/5/javaee-api-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javaee/javaee-api/5/javaee-api-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javaee/javaee-api/5/javaee-api-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

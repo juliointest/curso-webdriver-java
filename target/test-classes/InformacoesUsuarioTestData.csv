@@ -1,0 +1,9 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,tipo,contato,mensagem
+"",Phone,+5511989891132,Your contact has been added!
+"",Phone,+5511989891133,Your contact has been added!
+"",Phone,+5511989891134,Your contact has been added!
+"",E-mail,email0001@julio.com,Your contact has been added!
+"",E-mail,email0002@julio.com,Your contact has been added!
+removerUmContatoDeUmUsuario,telefone,mensagem,Duration(ms)
+"",+5511989891132,"Rest in peace, dear phone!",9031.0
+"",+5511989891133,"Rest in peace, dear phone!",8709.0
